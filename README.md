@@ -1,6 +1,8 @@
-### Welcome! You can call me Kurome.:ghost:
-
-
+<samp>
+Welcome! You can call me Kurome.:ghost:
+<br><br>
+  I Enjoy Linux, Malware Analysis & Cyber Security.
+</samp>
 
 <!--
 **0xkurome/0xkurome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
