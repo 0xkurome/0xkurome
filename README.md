@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! You can call me Kurome. 👋
+
+
 
 <!--
 **0xkurome/0xkurome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
