@@ -1,4 +1,4 @@
-### Welcome! You can call me Kurome. 👋
+### Welcome! You can call me Kurome.:ghost:
 
 
 
