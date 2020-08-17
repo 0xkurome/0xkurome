@@ -7,9 +7,6 @@ Welcome! You can call me Kurome.:ghost:
 <br>
 </samp>
 
-![Instagram](https://img.shields.io/badge/Instagram-0xkurome-cyan) ![Twitter](https://img.shields.io/badge/Twitter-0xkurome-cyan)
-
-
 
 
 
