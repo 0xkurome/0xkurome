@@ -1,11 +1,4 @@
-<samp>
-Welcome! You can call me Kurome.:ghost:
-<br><br>
-  I Enjoy Linux, Malware Analysis & Cyber Security.
-  <br>
-  Also follow me on the socials if you want!
-<br>
-</samp>
+
 
 
 
